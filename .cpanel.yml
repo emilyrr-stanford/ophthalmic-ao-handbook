@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dubralab/public_html/
+    - export DEPLOYPATH=/home/dubralab/public_html
     - /bin/cp -R /home/dubralab/repositories/ophthalmic-ao-handbook/_site $DEPLOYPATH
