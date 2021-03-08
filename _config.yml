@@ -17,7 +17,7 @@ title: The Ophthalmic Adaptive Optics Handbook
 email: adubra@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
  This handbook is a comprehensive resource for users and developers of ophthalmic adaptive optics technology at all levels of expertise.
-baseurl: "/ophthalmic-ao-handbook" # the subpath of your site, e.g. /blog
+baseurl: # "/ophthalmic-ao-handbook" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
